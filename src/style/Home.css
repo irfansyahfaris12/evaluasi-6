@@ -1,0 +1,11 @@
+.img{
+    background-image: url(https://images.unsplash.com/photo-1508424757105-b6d5ad9329d0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80);
+    color: black;
+    height: 300px;
+    background-size: cover;
+    opacity: .8;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
